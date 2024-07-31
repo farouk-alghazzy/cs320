@@ -4,7 +4,7 @@ Project Overview:
 
 Project 1: Review, Git Analysis, Benchmarking practiced basic python functions, looked at code efficiency, and used GIT. project link: https://github.com/cs320-wisc/f22/tree/main/p1#readme
 
-Project 2: Loan Analysis practiced working with: classes, large datasets, trees, testing, writing modules project link: https://github.com/cs320-wisc/f22/tree/main/p2#readme
+Project 2: Loan Analysis involved practicing with classes, handling large datasets, building and utilizing trees, implementing testing, and writing modules project link: https://github.com/cs320-wisc/f22/tree/main/p2#readme
 
 Project 3 (scrape.py): Find the Path! practiced: inheritance, graph search, and web scraping project link: https://github.com/cs320-wisc/f22/tree/main/p3#readme
 
