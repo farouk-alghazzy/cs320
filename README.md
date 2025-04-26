@@ -1,4 +1,4 @@
-Projects done in CS 320 Summer of 2024. 
+# Projects done in CS 320 Summer of 2024. 
 
 Project Overview:
 
